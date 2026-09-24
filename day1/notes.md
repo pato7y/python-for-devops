@@ -44,7 +44,7 @@
 
 ---
 
-## Part 2: Practical Examples & Code (Uygulama Kısımları)
+## Part 2: Practical Examples & Code 
 
 ### 1. Basic Interactive REPL / Script Commands
 
